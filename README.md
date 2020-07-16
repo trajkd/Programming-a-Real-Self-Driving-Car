@@ -3,7 +3,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 I combined what I’ve learned over the course of the entire Nanodegree Program to drive Carla, a real self-driving car, around the Udacity test track! I submitted my code to be run on Carla, Udacity's autonomous Lincoln MKZ, at their test site in Palo Alto, California!
 
 ### Notes to Reviewer
-Dejan Trajkovic (c.iaodejan@gmail.com) - submitting as an individual
+Dejan Trajkovic (ci.a.odejan@gmail.com) - submitting as an individual
 
 Please use **one** of the two installation options, either native **or** docker installation.
 
